@@ -1,3 +1,5 @@
+> **This repository has moved.** Rekt UI now lives in one repository: [tenilmurat/rekt-ui](https://github.com/tenilmurat/rekt-ui) — this project is [`packages/cli`](https://github.com/tenilmurat/rekt-ui/tree/main/packages/cli). This one is archived and read-only.
+
 # rektui
 
 Add [Rekt UI](https://github.com/tenilmurat/rektui-frontend) components to your project with one command.
